@@ -1,0 +1,23 @@
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Virtual environments & env files
+venv/
+.venv/
+env/
+.env
+
+# IDE & OS metadata
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Temporary original captures / logs
+_orig/
+*.log
