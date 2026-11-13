@@ -2,7 +2,7 @@
 
 A Software-Defined Networking (SDN) experimental suite implementing **Topology Slicing**, **Service-Based QoS Slicing**, **Prometheus/Grafana Telemetry**, and **Statistical Adaptive Flow Classification** over a dual-path OpenFlow 1.3 diamond topology in **Mininet** and **Ryu**.
 
-> **Academic Context:** Developed for the *Network and Cloud Infrastructures* course (Prof. Giorgio Ventre, A.Y. 2024/2025) at the University of Naples Federico II (DIETI) by **Giuseppe Ruggiero** (`M63001719`) and **Filomena Vigliotti** (`M63001734`).
+> **Academic Context:** Developed for the *Network and Cloud Infrastructures* course (Prof. Giorgio Ventre, A.Y. 2024/2025) at the University of Naples Federico II (DIETI) by **Giuseppe Ruggiero** and **Filomena Vigliotti**.
 
 ---
 
